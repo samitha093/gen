@@ -7,7 +7,7 @@
 #include <fcntl.h>
 #include <errno.h>
 
-#define listSize 95
+#define listSize 100
 
 typedef struct {
 char student_index[20]; //EG/XXXX/XXXX
